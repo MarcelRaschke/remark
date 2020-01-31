@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/remark-cli/package.json",
+        "packages/remark-parse/package.json",
+        "packages/remark-stringify/package.json",
+        "packages/remark/package.json"
+      ]
+    }
+  }
+}
