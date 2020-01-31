@@ -1,5 +1,7 @@
 # ![remark][logo]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/remark.svg)](https://greenkeeper.io/)
+
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
